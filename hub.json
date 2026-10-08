@@ -1,0 +1,30 @@
+{
+  "arxiv_query": "abs:\"Microsoft Azure\" OR abs:\"Azure OpenAI\" OR abs:\"Azure Machine Learning\"",
+  "arxiv_max": 8,
+  "repos_per_section": 6,
+  "since_days": 365,
+  "code_sections": [
+    {
+      "key": "PROJ",
+      "queries": [
+        "org:Azure-Samples openai",
+        "org:Azure-Samples ai"
+      ]
+    },
+    {
+      "key": "CODE",
+      "queries": [
+        "org:Azure-Samples",
+        "org:microsoft azure ai"
+      ]
+    },
+    {
+      "key": "COMM",
+      "queries": [
+        "azure openai",
+        "azure machine learning",
+        "microsoft fabric"
+      ]
+    }
+  ]
+}
