@@ -4,7 +4,7 @@ A free, self-updating hub for professionals working on **Azure AI Foundry, Azure
 Research and code lists refresh every day from arXiv and GitHub. Learning resources are hand-picked and free.
 
 <!-- STAMP:START -->
-_Last refreshed: 2026-10-27 04:36 UTC_
+_Last refreshed: 2026-10-28 04:29 UTC_
 <!-- STAMP:END -->
 
 ## Contents
@@ -21,6 +21,7 @@ Newest papers on arXiv for this topic, newest first.
 <!-- ARXIV:START -->
 | Date | Paper | Authors |
 |---|---|---|
+| 2026-10-19 | [Expert L2 English Speech Evaluation on a Gaming PC: Accuracy, Fluency, and Prosody with XLS-R, XEUS, and PhoneticXeus](https://arxiv.org/abs/2610.26406) | Richard Rose |
 | 2026-10-14 | [Routes planning in a condominium company using mathematical optimization](https://arxiv.org/abs/2610.20080) | Lara Rocha et al. |
 | 2026-09-03 | [ATIBA: Grounded Integrity and Quality Checking for Research Papers](https://arxiv.org/abs/2609.04123) | Veli Karakaya et al. |
 | 2026-09-01 | [Probing Warmth-Mediated Harm in Speech-Enabled LLMs for Mental-Health Conversations](https://arxiv.org/abs/2609.04256) | Eugenia Kim et al. |
@@ -28,7 +29,6 @@ Newest papers on arXiv for this topic, newest first.
 | 2026-08-05 | [Architectural Implications of Agentic AI Workflows](https://arxiv.org/abs/2608.04458) | Jirong Yang et al. |
 | 2026-06-30 | [EnclaveX: End-to-End Confidential AI with CPU/GPU TEEs](https://arxiv.org/abs/2606.31408) | Robert Schambach et al. |
 | 2026-06-24 | [Priceless: An examination of Serverless Functions-as-a-Service (FaaS) pricing models](https://arxiv.org/abs/2606.26308) | Nnamdi Ekwe-Ekwe |
-| 2026-06-21 | [Large Language Model-Assisted Cleaning of Report-Derived Labels in a Large-Scale Chest CT Dataset](https://arxiv.org/abs/2606.22382) | Yosuke Yamagishi et al. |
 <!-- ARXIV:END -->
 
 ## 🚀 Projects (official and flagship)
@@ -38,7 +38,7 @@ Most-starred GitHub repositories updated in the last 12 months.
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
 | [Azure-Samples/azure-search-openai-demo](https://github.com/Azure-Samples/azure-search-openai-demo) | A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure AI Search for retrieval and Azure OpenAI large lan | Python | 7,792 | 2026-10-24 |
-| [Azure-Samples/openai](https://github.com/Azure-Samples/openai) | The repository for all Azure OpenAI Samples complementing the OpenAI cookbook. | Jupyter Notebook | 1,354 | 2026-08-20 |
+| [Azure-Samples/openai](https://github.com/Azure-Samples/openai) | The repository for all Azure OpenAI Samples complementing the OpenAI cookbook. | Jupyter Notebook | 1,355 | 2026-08-20 |
 | [Azure-Samples/chat-with-your-data-solution-accelerator](https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator) | A Solution Accelerator for the RAG pattern running in Azure, using Azure AI Search for retrieval and Azure OpenAI large language models to p | Python | 1,187 | 2026-10-26 |
 | [Azure-Samples/AI-Gateway](https://github.com/Azure-Samples/AI-Gateway) | Labs to explore AI Models, MCP servers, and Agents with the AI Gateway powered by Azure API Management and Microsoft Foundry 🚀 | Jupyter Notebook | 1,003 | 2026-09-16 |
 | [Azure-Samples/serverless-chat-langchainjs](https://github.com/Azure-Samples/serverless-chat-langchainjs) | Build your own serverless AI Chat with Retrieval-Augmented-Generation using LangChain.js, TypeScript and Azure | TypeScript | 864 | 2026-06-03 |
@@ -51,12 +51,12 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- CODE:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 21 Lessons, Get Started Building with Generative AI | Jupyter Notebook | 122,231 | 2026-10-24 |
+| [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 21 Lessons, Get Started Building with Generative AI | Jupyter Notebook | 122,299 | 2026-10-24 |
 | [Azure-Samples/azure-search-openai-demo](https://github.com/Azure-Samples/azure-search-openai-demo) | A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure AI Search for retrieval and Azure OpenAI large lan | Python | 7,792 | 2026-10-24 |
-| [microsoft/SynapseML](https://github.com/microsoft/SynapseML) | Simple and Distributed Machine Learning Python Library porting ML algorithms for Spark | Scala | 5,249 | 2026-10-23 |
-| [Azure-Samples/cognitive-services-speech-sdk](https://github.com/Azure-Samples/cognitive-services-speech-sdk) | Sample code for the Microsoft Cognitive Services Speech SDK | C# | 3,458 | 2026-10-26 |
+| [microsoft/SynapseML](https://github.com/microsoft/SynapseML) | Simple and Distributed Machine Learning Python Library porting ML algorithms for Spark | Scala | 5,250 | 2026-10-28 |
+| [Azure-Samples/cognitive-services-speech-sdk](https://github.com/Azure-Samples/cognitive-services-speech-sdk) | Sample code for the Microsoft Cognitive Services Speech SDK | C# | 3,457 | 2026-10-27 |
 | [Azure-Samples/active-directory-aspnetcore-webapp-openidconnect-v2](https://github.com/Azure-Samples/active-directory-aspnetcore-webapp-openidconnect-v2) | An ASP.NET Core Web App which lets sign-in users (including in your org, many orgs, orgs + personal accounts, sovereign clouds) and call Web | C# | 1,440 | 2026-10-01 |
-| [Azure-Samples/openai](https://github.com/Azure-Samples/openai) | The repository for all Azure OpenAI Samples complementing the OpenAI cookbook. | Jupyter Notebook | 1,354 | 2026-08-20 |
+| [Azure-Samples/openai](https://github.com/Azure-Samples/openai) | The repository for all Azure OpenAI Samples complementing the OpenAI cookbook. | Jupyter Notebook | 1,355 | 2026-08-20 |
 <!-- CODE:END -->
 
 ## 🌍 Community projects
@@ -65,11 +65,11 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- COMM:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 21 Lessons, Get Started Building with Generative AI | Jupyter Notebook | 122,231 | 2026-10-24 |
-| [BerriAI/litellm](https://github.com/BerriAI/litellm) | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, l | Python | 62,102 | 2026-10-27 |
-| [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) | Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, Open | TypeScript | 46,361 | 2026-10-26 |
-| [songquanpeng/one-api](https://github.com/songquanpeng/one-api) | LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与 | JavaScript | 37,257 | 2026-01-09 |
-| [BeehiveInnovations/pal-mcp-server](https://github.com/BeehiveInnovations/pal-mcp-server) | The power of Claude Code / GeminiCLI / CodexCLI + (Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above) w | Python | 11,811 | 2025-12-15 |
+| [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 21 Lessons, Get Started Building with Generative AI | Jupyter Notebook | 122,299 | 2026-10-24 |
+| [BerriAI/litellm](https://github.com/BerriAI/litellm) | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, l | Python | 62,196 | 2026-10-28 |
+| [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) | Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, Open | TypeScript | 46,400 | 2026-10-28 |
+| [songquanpeng/one-api](https://github.com/songquanpeng/one-api) | LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与 | JavaScript | 37,262 | 2026-01-09 |
+| [BeehiveInnovations/pal-mcp-server](https://github.com/BeehiveInnovations/pal-mcp-server) | The power of Claude Code / GeminiCLI / CodexCLI + (Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above) w | Python | 11,810 | 2025-12-15 |
 | [Azure-Samples/azure-search-openai-demo](https://github.com/Azure-Samples/azure-search-openai-demo) | A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure AI Search for retrieval and Azure OpenAI large lan | Python | 7,792 | 2026-10-24 |
 <!-- COMM:END -->
 
